@@ -35,9 +35,9 @@
 
 ### 📫 How to reach me
 
-- Email: your-email@example.com  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- Email: ahmadktib11@gmail.com  
+- LinkedIn:
+- Portfolio:
 
 ---
 
